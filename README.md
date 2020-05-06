@@ -8,7 +8,7 @@ The purpose of this website is to inform the student and their parents of the tu
 #### Mathematics
 - Grade 1 to Grade 11 Mathematics in both the applied and academic sections
 - Grade 12 MHF4U (Adavanced Functions)
-- Grade 12 MCV4U (Calculus and Vectors)
+- Grade 12 MCV4U (Calculus ONLY)
 - Introduction to Mathematical Proofs
 	- A great Mathematics course for any student from grade 10 and up that will teach how to prove 	mathematical theorems
     
