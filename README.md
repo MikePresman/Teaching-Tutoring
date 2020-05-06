@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Michael Presman's Teaching & Tutoring Website
 
-You can use the [editor on GitHub](https://github.com/MikePresman/teaching/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this website is to inform the student and their parents of the tutoring and teaching services of Mathematics and Computer Science that Michael Presman provides.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](https://s3.amazonaws.com/cms.ipressroom.com/173/files/20179/59e81c942cfac2292708892b_Simpsons+math+photo+3/Simpsons+math+photo+3_6f8b3fe5-7397-4424-a441-9013b7d556d8-prv.jpg)
 
-### Markdown
+## Services
+#### Mathematics
+- Grade 1 to Grade 11 Mathematics in both the applied and academic sections
+- Grade 12 MHF4U (Adavanced Functions)
+- Grade 12 MCV4U (Calculus and Vectors)
+- Introduction to Mathematical Proofs
+	- A great Mathematics course for any student from grade 10 and up that will teach how to prove 	mathematical theorems
+    
+#### Computer Science   
+- Introduction to Algorithmic Thinking and Problem Solving (An introduction to computer science)
+- Introduction to Object Oriented Programming in Java
+- Introduction to Android Development in Java
+- Introduction to Programming with Python
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Curriculum
+- Whether you require additional tutoring to solidify a concept you are uncomfrotable with or are interested in learning course material from the ground up, Michael Presman is familiar with the YRDSB curriculum and will teach according to the syllabus in order for you to score an A+ in your class.
 
-```markdown
-Syntax highlighted code block
+## How
+- Because of the challenging and scary times that we are currently facing, Michael Presman is flexible in providing his teaching and tutoring in the most accomadating way.
 
-# Header 1
-## Header 2
-### Header 3
+- First off all, Zoom sessions would be the most direct form of contact. This would allow Michael Presman and the student to discuss topics one to one with direct feedback.
 
-- Bulleted
-- List
+- Secondly, after Michael Presman provides homework for the student, if the student has any questions at any time, then Michael Presman will accomdate 'Office Hours' for the student to contact Michael Presman so the student can confidently tackle any problems he/she has.
 
-1. Numbered
-2. List
+- Thirdly, timing of class/tutoring is flexible and can be accomdated to the student's needs.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Pricing
+- Because of the wide arrange of material that Michael Presman covers, the pricing of a session will be contingent on the student's needs. As a result, please contact Michael Presman to discuss how you can get started today and get quoted.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikePresman/teaching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+- Email: mikepresman@gmail.com
+- Phone Number : 647 962 4098
