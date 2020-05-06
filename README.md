@@ -26,13 +26,13 @@ The purpose of this website is to inform the student and their parents of the tu
 
 - First off all, Zoom sessions would be the most direct form of contact. This would allow Michael Presman and the student to discuss topics one to one with direct feedback.
 
-- Secondly, after Michael Presman provides homework for the student, if the student has any questions at any time, then Michael Presman will accomdate 'Office Hours' for the student to contact Michael Presman so the student can confidently tackle any problems he/she has.
+- Secondly, after Michael Presman provides homework for the student, if the student has any questions at any time then Michael Presman will accomodate 'Office Hours' so the student can contact Michael Presman to recieve additional support.
 
 - Thirdly, timing of class/tutoring is flexible and can be accomdated to the student's needs.
 
 
 ## Pricing
-- Because of the wide arrange of material that Michael Presman covers, the pricing of a session will be contingent on the student's needs. As a result, please contact Michael Presman to discuss how you can get started today and get quoted.
+- Because of the wide arrange of material that Michael Presman covers, the pricing of a session will be contingent on the student's needs. As a result, please contact Michael Presman to discuss how you can get quoted today.
 
 
 
